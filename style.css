@@ -34,6 +34,7 @@ div{
 body {
     font-family: 'Arial', sans-serif;
     font-size: 18px;
+    background-color: #2a9d8f;
 }
 
 /* 2. Styliser la balise header */
@@ -43,12 +44,12 @@ header {
 
 /* 3. Styliser la balise nav */
 nav {
-    background-color: #264653; /* couleur d’arrière-plan */
+    background-color: #9782d0; /* couleur d’arrière-plan */
 }
 
 /* 4. Styliser la balise main */
 main {
-    background-color: #f1faee;
+    background-color: #d6de70;
     font-size: 20px;
 }
 
