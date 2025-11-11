@@ -1,0 +1,79 @@
+h1{
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+p {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+   font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+h2{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h4,ul{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+
+
+
+/* 1. Styliser la balise body */
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+}
+
+/* 2. Styliser la balise header */
+header {
+    background-color: #f4a261; /* couleur d’arrière-plan */
+}
+
+/* 3. Styliser la balise nav */
+nav {
+    background-color: #264653; /* couleur d’arrière-plan */
+}
+
+/* 4. Styliser la balise main */
+main {
+    background-color: #f1faee;
+    font-size: 20px;
+}
+
+/* 5. Styliser la balise footer */
+footer {
+    background-color: #2a9d8f;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* 6. Styliser la balise li */
+/*li {
+    display: inline-;
+    width: 200px;
+}*/
+
+/* 7. Styliser la balise h1 */
+h1 {
+    text-align: center;
+    font-family: 'Verdana', sans-serif;
+    color: chocolate;
+}
+
+/* 8. Styliser la balise p */
+p {
+    line-height: 1.6;
+}
